@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="millenium_falcon" size="0.075000 0.099206" />
+    <ImageTarget name="earth" size="0.200000 0.198194" />
+    <ImageTarget name="shuttle" size="0.070000 0.114302" />
+    <ImageTarget name="lane" size="0.100000 0.270856" />
+  </Tracking>
+</QCARConfig>

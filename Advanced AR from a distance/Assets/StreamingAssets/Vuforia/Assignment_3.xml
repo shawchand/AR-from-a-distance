@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="black_border" size="0.200000 0.200220" />
+    <ImageTarget name="unwrapped_dog" size="0.160000 0.160000" />
+    <ImageTarget name="unwrapped_eye_pot" size="0.160000 0.160000" />
+    <ImageTarget name="unwrapped_fish" size="0.220000 0.117843" />
+    <ImageTarget name="unwrapped_skull" size="0.160000 0.160000" />
+  </Tracking>
+</QCARConfig>
